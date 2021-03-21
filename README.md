@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Project created for educational purposes following the tutorial by @briancodex 
+
+![demonstration](https://media4.giphy.com/media/NGLumm80nrXsSQcvXB/giphy.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
